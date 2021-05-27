@@ -6,4 +6,5 @@ Se trata de uma interface do Netflix. Ela não está funcional, mas a idéia pri
   * linhas guias;
   * SCROLLVIEW com fillViewport;
   * CONSTRAINTLAYOUT.
+  
   É simples, mas já sinto feliz em estar aprendendo🙏
